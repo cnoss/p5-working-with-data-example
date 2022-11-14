@@ -1,0 +1,2547 @@
+{
+ "displayFieldName": "name",
+ "fieldAliases": {
+  "objectid": "OBJECTID",
+  "name": "Name",
+  "datum_von": "Datum von",
+  "datum_bis": "Datum bis",
+  "link": "Hyperlink",
+  "typ": "Typ",
+  "anzeige": "Anzeige",
+  "beschreibung": "Beschreibung"
+ },
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "fields": [
+  {
+   "name": "objectid",
+   "type": "esriFieldTypeOID",
+   "alias": "OBJECTID"
+  },
+  {
+   "name": "name",
+   "type": "esriFieldTypeString",
+   "alias": "Name",
+   "length": 255
+  },
+  {
+   "name": "datum_von",
+   "type": "esriFieldTypeDate",
+   "alias": "Datum von",
+   "length": 8
+  },
+  {
+   "name": "datum_bis",
+   "type": "esriFieldTypeDate",
+   "alias": "Datum bis",
+   "length": 8
+  },
+  {
+   "name": "link",
+   "type": "esriFieldTypeString",
+   "alias": "Hyperlink",
+   "length": 100
+  },
+  {
+   "name": "typ",
+   "type": "esriFieldTypeInteger",
+   "alias": "Typ"
+  },
+  {
+   "name": "anzeige",
+   "type": "esriFieldTypeInteger",
+   "alias": "Anzeige"
+  },
+  {
+   "name": "beschreibung",
+   "type": "esriFieldTypeString",
+   "alias": "Beschreibung",
+   "length": 255
+  }
+ ],
+ "features": [
+  {
+   "attributes": {
+    "objectid": 938026,
+    "name": "LANXESS arena - Elfter im Elften - Immer wieder kölsche Lieder",
+    "datum_von": 1668270600000,
+    "datum_bis": 1668276000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17214/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 17:30 bis 19 Uhr und nach Veranstaltungsende ab etwa 23:45 Uhr, rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9829853661921595,
+    "y": 50.938196701050096
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938027,
+    "name": "RheinEnergieSTADION - 1. FC Köln gegen Bayer 04 Leverkusen",
+    "datum_von": 1668000600000,
+    "datum_bis": 1668015000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17215/index.html",
+    "typ": 11,
+    "anzeige": 1,
+    "beschreibung": "Es ist mit einem erhöhten Verkehrsaufkommen und zähfließendem Verkehr zu rechnen."
+   },
+   "geometry": {
+    "x": 6.8749534011655395,
+    "y": 50.93366670020017
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938028,
+    "name": "LANXESS arena - 30 Jahre Arsch Huh - Wachsam bleiben",
+    "datum_von": 1668099600000,
+    "datum_bis": 1668105000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17210/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18:00 bis 19:30 Uhr und nach Veranstaltungsende ab etwa 23 Uhr, ist rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9826232436099129,
+    "y": 50.938204727498807
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938030,
+    "name": "LANXESS arena - 30 Jahre Arsch Huh",
+    "datum_von": 1668099600000,
+    "datum_bis": 1668105000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17216/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18 bis 19:30 Uhr und nach Veranstaltungsende ab etwa  22 Uhr, rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9827868833033913,
+    "y": 50.93805134217083
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938031,
+    "name": "Bonner Wall (Neustadt/Süd)",
+    "datum_von": 1663545600000,
+    "datum_bis": 1670544000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16871/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Bonner Wall ist zwischen der Kowallekstraße und der Vorgebirgstraße in Fahrtrichtung Volksgarten eingeengt."
+   },
+   "geometry": {
+    "x": 6.9500983527889577,
+    "y": 50.918844674767428
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937629,
+    "name": "Hauptstraße (Zündorf)",
+    "datum_von": 1668474000000,
+    "datum_bis": 1671753600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17218/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Hauptstraße ist zwischen Sankt-Martin-Straße und Ankergasse in Fahrtrichtung stadtauswärts beidseitig eingeengt."
+   },
+   "geometry": {
+    "x": 7.0349880342514011,
+    "y": 50.861648116967586
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937630,
+    "name": "Hauptstraße (Zündorf)",
+    "datum_von": 1669622400000,
+    "datum_bis": 1670594400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17217/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Hauptstraße ist zwischen Sankt-Martin-Straße und Ankergasse in Fahrtrichtung stadtauswärts stellenweise eingeengt."
+   },
+   "geometry": {
+    "x": 7.0357605114811035,
+    "y": 50.862433660671336
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937631,
+    "name": "Eschweilerstraße (Braunsfeld)",
+    "datum_von": 1663632000000,
+    "datum_bis": 1671753600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17016/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Eschweilerstraße ist zwischen der Aachener Straße und der Losheimer Straße in beide Fahrtrichtungen voll gesperrt."
+   },
+   "geometry": {
+    "x": 6.8929597033195336,
+    "y": 50.937594979755929
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938033,
+    "name": "Neusser Straße (Nippes)",
+    "datum_von": 1667808000000,
+    "datum_bis": 1668261600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17219/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Neusser Straße ist zwischen Kempener Straße und Lohsestraße in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9546183238347803,
+    "y": 50.959407456283621
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938034,
+    "name": "Hohenstaufenring (Neustadt/Süd)",
+    "datum_von": 1667955600000,
+    "datum_bis": 1668297600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17221/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Hohenstaufenring ist zwischen Schaevenstraße und dem Bahnübergang Weyerstraße am Barbarossaplatz in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9399359122695898,
+    "y": 50.932983781384692
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 915226,
+    "name": "Kaiserstraße (Porz)",
+    "datum_von": 1658448000000,
+    "datum_bis": 1669766400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16801/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Kaiserstraße ist zwischen dem Brückenbauwerk der Deutschen Bahn und der Humboldtstraße in Fahrtrichtung Frankfurter Straße eingeengt."
+   },
+   "geometry": {
+    "x": 7.0686980382268185,
+    "y": 50.882095038321353
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938035,
+    "name": "Hohenstaufenring (Neustadt/Süd)",
+    "datum_von": 1667955600000,
+    "datum_bis": 1668297600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17221/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Hohenstaufenring ist zwischen Schaevenstraße und dem Bahnübergang Weyerstraße am Barbarossaplatz in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9415023215994278,
+    "y": 50.929457461317881
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938425,
+    "name": "Markmannsgasse (Altstadt/Nord)",
+    "datum_von": 1669021200000,
+    "datum_bis": 1671829200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16125/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Zufahrt zur Markmannsgasse ist ab Heumarkt, aus Richtung Deutzer Brücke und Cäcilienstraße in der Zeit von 10 bis 22 Uhr gesperrt."
+   },
+   "geometry": {
+    "x": 6.9625902144774363,
+    "y": 50.936285949423414
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938426,
+    "name": "Opladener Straße/Arenatunnel (Deutz)",
+    "datum_von": 1668805200000,
+    "datum_bis": 1668916800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/13450/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Arenatunnel auf der Opladener Straße ist zwischen 22 und 5:00 Uhr in beiden Fahrtrichtungen abschnittsweise verengt."
+   },
+   "geometry": {
+    "x": 6.9818481091363411,
+    "y": 50.939173635502002
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938427,
+    "name": "Militärringstraße (Longerich)",
+    "datum_von": 1668412800000,
+    "datum_bis": 1669212000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17222/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Kreuzungsbereich Militärringstraße/Mercatorstraße kommt es zu Fahrbahneinengungen."
+   },
+   "geometry": {
+    "x": 6.9114010523667249,
+    "y": 50.999879717753487
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938428,
+    "name": "Robert-Perthel-Straße (Longerich)",
+    "datum_von": 1669017600000,
+    "datum_bis": 1670594400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16333/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Robert-Perthel-Straße ist zwischen Longericher Straße und Ruth-Hallensleben-Straße in beide Fahrtrichtung teilweise eingeengt. Die Arbeiten finden nur in der Zeit zwischen 9 und 15 Uhr statt."
+   },
+   "geometry": {
+    "x": 6.9206883794240746,
+    "y": 50.978879298586214
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938825,
+    "name": "Tunnel Kalk/Stadtautobahn (B55a)",
+    "datum_von": 1668632400000,
+    "datum_bis": 1668830400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16861/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Fahrbahnen im Tunnel Kalk sind in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.013498176527567,
+    "y": 50.947934706662785
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 938827,
+    "name": "Demonstration (Niehl)",
+    "datum_von": 1668666600000,
+    "datum_bis": 1668700800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17220/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "Die Emdener Straße ist zwischen der Straße Am Ölhafen und der Geestemünder Straße voll gesperrt."
+   },
+   "geometry": {
+    "x": 6.9550796635721532,
+    "y": 51.015915409777165
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 889227,
+    "name": "Berrenrather Straße (Sülz)",
+    "datum_von": 1661817600000,
+    "datum_bis": 1677542400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16951/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Berrenrather Straße ist auf Höhe der Redwitzstraße in beide Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9268461317650694,
+    "y": 50.919606611313014
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 920025,
+    "name": "Humboldtstraße (Urbach)",
+    "datum_von": 1665360000000,
+    "datum_bis": 1671753600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17107/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Humboldtstraße ist zwischen Bonner Straße und Königsberger Straße gesperrt."
+   },
+   "geometry": {
+    "x": 7.0706919826565331,
+    "y": 50.887465945242219
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 918827,
+    "name": "Subbelrather Straße (Neuehrenfeld)",
+    "datum_von": 1666051200000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17118/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Subbelrather Straße ist zwischen der Herbigstraße und der Alpenerstraße in beiden Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9077011240659578,
+    "y": 50.958670851976564
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 889625,
+    "name": "Scheidtweiler Straße",
+    "datum_von": 1661126400000,
+    "datum_bis": 1668988800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16956/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Scheidtweiler Straße und Maarweg sind in Fahrtrichtung Aachener Straße abschnittsweise eingeengt und verschwengt."
+   },
+   "geometry": {
+    "x": 6.9024225357022448,
+    "y": 50.938676719569038
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 627575,
+    "name": "Deutzer Brücke (Innenstadt)",
+    "datum_von": 1325379600000,
+    "datum_bis": 1672441200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/08474/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "Die Deutzer Brücke ist für Kraftfahrzeuge über 3,5 Tonnen zulässiger Gesamtmasse gesperrt. Für Personenkraftwagen und Busverkehr ist die Brücke freigegeben."
+   },
+   "geometry": {
+    "x": 6.9658165696823522,
+    "y": 50.936413114206147
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 916426,
+    "name": "Tunisstraße (Altstadt/Nord)",
+    "datum_von": 1648771200000,
+    "datum_bis": 1680217200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16492/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Tunisstraße ist zwischen der Straße An der Rechtschule und der Komödienstraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9532450331579838,
+    "y": 50.940698153735838
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 647383,
+    "name": "Zoobrücke (Innenstadt/Deutz)",
+    "datum_von": 1287100800000,
+    "datum_bis": 1672441200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/00116/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "Für Lkw ab 30 Tonnen tatsächlichem Gesamtgewicht ist die Zoobrücke gesperrt."
+   },
+   "geometry": {
+    "x": 6.9754215368845927,
+    "y": 50.954568632787961
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 908425,
+    "name": "Bayenthalgürtel (Marienburg)",
+    "datum_von": 1610352000000,
+    "datum_bis": 1675173600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14892/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Bayenthalgürtel ist zwischen Goethestraße und Pferdmengesstraße in Fahrtrichtung des Oberländer Ufers eingeengt."
+   },
+   "geometry": {
+    "x": 6.9700377929118975,
+    "y": 50.904267518256979
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 908828,
+    "name": "Rösrather Straße (Rath/ Heumar)",
+    "datum_von": 1664866800000,
+    "datum_bis": 1669816800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17060/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Rösrather Straße ist zwischen der Pauline-Christmann-Straße und dem Brück-Rather Steinweg in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.0623304732390997,
+    "y": 50.927236046946021
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 928825,
+    "name": "Zaunhofstraße (Meschenich)",
+    "datum_von": 1668474000000,
+    "datum_bis": 1668988800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17169/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Zaunhofstraße ist zwischen Drachenfelsstraße und Krauskaulerweg voll gesperrt."
+   },
+   "geometry": {
+    "x": 6.939479936471785,
+    "y": 50.86064585152446
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 928826,
+    "name": "Luxemburger Straße (Sülz)",
+    "datum_von": 1668625200000,
+    "datum_bis": 1669003200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17166/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Luxemburger Straße ist ab dem Tunnel bis Hans-Carl-Nipperdey-Straße eingeengt."
+   },
+   "geometry": {
+    "x": 6.9365509646004542,
+    "y": 50.92449717047154
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 794026,
+    "name": "LANXESS arena - Musikparade",
+    "datum_von": 1677418200000,
+    "datum_bis": 1677423600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15958/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einem Konzert in der LANXESS arena ist in der Zeit von 14:30 bis 16 Uhr und nach Veranstaltungsende um circa 18 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9826718458600903,
+    "y": 50.938871710131004
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 894025,
+    "name": "Junkersdorfer Straße (Müngersdorf)",
+    "datum_von": 1661126400000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16981/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Junkersdorfer Straße ist zwischen dem Jacob-Zündorf-Weg und dem Roman-Kühnel-Weg in beide Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.8804874311114528,
+    "y": 50.932196045396154
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 918435,
+    "name": "Bremerhavener Straße (Niehl)",
+    "datum_von": 1665990000000,
+    "datum_bis": 1668175200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17119/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Emdener Straße ist im Einmündungsbereich zur Bremerhavener Straße in Fahrtrichtung Niehler Ei eingeengt."
+   },
+   "geometry": {
+    "x": 6.954403746902921,
+    "y": 50.996070268846822
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 921225,
+    "name": "Pfälzischer Ring (Mülheim)",
+    "datum_von": 1665705600000,
+    "datum_bis": 1669334400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17130/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Pfälzischer Ring ist in Fahrtrichtung Mülheim auf Höhe der Karlsruher Straße eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9946261541756192,
+    "y": 50.949671853279952
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 895626,
+    "name": "Mauenheimer Gürtel/Kempener Straße (Nippes)",
+    "datum_von": 1662336000000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16992/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Mauenheimer Gürtel ist zwischen der Longericher Straße und der Merheimer Straße in beide Fahrtrichtungen abschnittsweise eingeengt. Die Kempener Straße zwischen dem Mauenheimer Gürtel und der Lokomotivstraße in beide Fahrtrichtungen voll gesperrt."
+   },
+   "geometry": {
+    "x": 6.9427165361470768,
+    "y": 50.968973583223537
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 847629,
+    "name": "Brühler Straße (Raderthal)",
+    "datum_von": 1646640000000,
+    "datum_bis": 1672495200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16408/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Kreuzungsbereich Brühler Straße/Raderberggürtel sind Fahrbahneinengungen in alle Fahrtrichtungen möglich."
+   },
+   "geometry": {
+    "x": 6.9567533629183087,
+    "y": 50.903781310362
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 865626,
+    "name": "Vorgebirgstraße (Zollstock)",
+    "datum_von": 1627257600000,
+    "datum_bis": 1671408000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15761/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Vorgebirgstraße ist zwischen dem Zollstocksweg und dem Rosenzweigweg in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9455309999316199,
+    "y": 50.909562196867412
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 746427,
+    "name": "Deutz-Mülheimer Straße (Deutz)",
+    "datum_von": 1593388800000,
+    "datum_bis": 1670803200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14401/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Deutz-Mülheimer Straße ist zwischen der Opladener Straße und der Barmer Straße in beiden Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.979021061048015,
+    "y": 50.939785476990465
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 654407,
+    "name": "Mülheimer Brücke (Riehl/Mülheim)",
+    "datum_von": 1358125200000,
+    "datum_bis": 1681772400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/01017/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "Aufgrund der Generalsanierung der Mülheimer Brücke kommt es zu Verkehrsbeeinträchtigungen."
+   },
+   "geometry": {
+    "x": 6.9964017765080193,
+    "y": 50.964070091129912
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934425,
+    "name": "Wahner Straße (Zündorf)",
+    "datum_von": 1667376000000,
+    "datum_bis": 1668780000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17188/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Wahner Straße ist zwischen Evezastraße und Gartenweg in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0479538329972033,
+    "y": 50.866036158721457
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934426,
+    "name": "Konrad-Adenauer-Ufer/Bastei (Neustadt/Nord)",
+    "datum_von": 1649894400000,
+    "datum_bis": 1669766400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16559/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Der Busparkplatz am Konrad-Adenauer-Ufer (Bastei) ist bis auf Weiteres gesperrt. Auf Höhe der Mevissenstraße wurde eine Ersatz-Haltezone errichtet."
+   },
+   "geometry": {
+    "x": 6.9665794043348903,
+    "y": 50.950297074271298
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 896427,
+    "name": "Butzweilerstraße (Ossendorf)",
+    "datum_von": 1654560000000,
+    "datum_bis": 1672444800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16670/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Butzweilerstraße ist zwischen Äußere Kanalstraße und Peter-Michels-Straße in beide Fahrtrichtungen abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.9163807523591148,
+    "y": 50.970590237240863
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 917227,
+    "name": "Rodenkirchener Straße (Rondorf)",
+    "datum_von": 1665964800000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16735/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Rodenkirchener Straße ist zwischen Im Rabengrund und Blumental in beiden Fahrtrichtungen eingeengt. Die Arbeiten finden abschnittsweise statt."
+   },
+   "geometry": {
+    "x": 6.9636374114806729,
+    "y": 50.879578007152979
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 814825,
+    "name": "LANXESS arena - Bonez MC",
+    "datum_von": 1671465600000,
+    "datum_bis": 1671472800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15972/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 17 bis 19 Uhr und nach der Veranstaltung ab circa 21 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9824196247509738,
+    "y": 50.938054830928877
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 910028,
+    "name": "Blaubach (Altstadt/Süd)",
+    "datum_von": 1650585600000,
+    "datum_bis": 1671580800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16552/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Blaubach ist zwischen der Straße Krummer Büchel und der Straße Hohe Pforte in Fahrtrichtung stadteinwärts abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.9557824027345072,
+    "y": 50.932720077768252
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 898025,
+    "name": "Leverkusener Autobahnbrücke",
+    "datum_von": 1514854800000,
+    "datum_bis": 1703980800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/11985/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "Bei einer Brückenprüfung der Leverkusener Rheinbrücke wurden Risse entdeckt. Die Leverkusener Rheinbrücke wurde daher für Lastwagen mit einer Gesamtmasse über 3,5 Tonnen gesperrt."
+   },
+   "geometry": {
+    "x": 6.9606908455210288,
+    "y": 51.034039524026184
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 854025,
+    "name": "Ackerstraße (Buchheim)",
+    "datum_von": 1657756800000,
+    "datum_bis": 1680217200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16728/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Ackerstraße ist zwischen Bergisch Gladbacher Straße und Dellbrücker Straße gesperrt. Umleitungen sind ausgeschildert."
+   },
+   "geometry": {
+    "x": 7.0182778724893113,
+    "y": 50.963147736864499
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 898427,
+    "name": "Nachtigallenstraße (Wahn)",
+    "datum_von": 1663113600000,
+    "datum_bis": 1668384000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17010/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Nachtigallenstraße ist im Einmündungsbereich der Straße Vor den Feldern in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0875582250644191,
+    "y": 50.862978819933055
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 751629,
+    "name": "Rather Schulstraße (Rath/Heumar)",
+    "datum_von": 1623628800000,
+    "datum_bis": 1672444800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15511/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Der Tunnel der Rather Schulstraße unter der Autobahn 3 hindurch ist vom 14 Juni 2021 bis zum 31 Dezember 2022 voll gesperrt."
+   },
+   "geometry": {
+    "x": 7.0803602829751719,
+    "y": 50.918849841889561
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 910827,
+    "name": "Pipinstraße/Heumarkt (Altstadt/Nord)",
+    "datum_von": 1635987600000,
+    "datum_bis": 1668384000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16117/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Bereich Pipinstraße/Heumarkt kommt es zu Fahrbahneinengungen in alle Fahrtrichtungen."
+   },
+   "geometry": {
+    "x": 6.9598271743417293,
+    "y": 50.935299579517824
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 753626,
+    "name": "LANXESS arena - Bläck Fööss",
+    "datum_von": 1672510500000,
+    "datum_bis": 1672603200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15920/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 19:15 bis 21 Uhr und nach der Veranstaltung ab circa 23 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9828740521593309,
+    "y": 50.938871720977751
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 755633,
+    "name": "LANXESS arena - Paul Panzer",
+    "datum_von": 1683477000000,
+    "datum_bis": 1683482400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/09108/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18:30 bis 20 Uhr und nach der Veranstaltung ab circa 22:30 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9832363032826263,
+    "y": 50.938976822751144
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 874427,
+    "name": "Kempener Straße (Nippes)",
+    "datum_von": 1659312000000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16863/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Kempener Straße ist zwischen der Wartburgstraße und der Wilhelmstraße in Fahrtrichtung Neusser Straße eingeengt."
+   },
+   "geometry": {
+    "x": 6.9495704071657398,
+    "y": 50.963296395845219
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 880025,
+    "name": "Unter Sachsenhausen (Altstadt/Nord)",
+    "datum_von": 1635292800000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16124/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Unter Sachsenhausen ist in Höhe der Stolkgasse in beiden Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9539370432166212,
+    "y": 50.942574154458299
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 827228,
+    "name": "Sürther Hauptstraße (Sürth)",
+    "datum_von": 1652659200000,
+    "datum_bis": 1668470400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16595/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Sürther Hauptstraße ist zwischen der Straße Am Greinshof und der Kölnstraße in Fahrtrichtung Kölnstraße eingeengt."
+   },
+   "geometry": {
+    "x": 7.0143999669173613,
+    "y": 50.866083645092417
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 917625,
+    "name": "Universitätsstraße (Lindenthal)",
+    "datum_von": 1648425600000,
+    "datum_bis": 1668297600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16503/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Universitätsstraße ist zwischen Dürener Straße und Bachemer Straße in Fahrtrichtung Bachemer Straße eingeengt. In Gegenrichtung ist die Linksabbiege-Wendespur gesperrt."
+   },
+   "geometry": {
+    "x": 6.9248940841412709,
+    "y": 50.933193391482391
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 917626,
+    "name": "Hauptstraße (Zündorf)",
+    "datum_von": 1667782800000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15598/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Hauptstraße ist zwischen der Ankergasser und dem Peletierweg auf eine Spur eingeengt."
+   },
+   "geometry": {
+    "x": 7.0371704726929378,
+    "y": 50.863316826679316
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 900828,
+    "name": "Roonstraße (Neustadt/Süd)",
+    "datum_von": 1630886400000,
+    "datum_bis": 1680130800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15848/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Roonstraße ist zwischen dem Barbarossaplatz und der Zülpicher Straße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9404938114502261,
+    "y": 50.929575798352246
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 802025,
+    "name": "LANXESS arena - Sabaton",
+    "datum_von": 1683903600000,
+    "datum_bis": 1683910800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15963/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einem Konzert in der LANXESS arena ist in der Zeit von 17 bis 19 Uhr und nach Veranstaltungsende um circa 21 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9830590684770009,
+    "y": 50.938871286078296
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 800032,
+    "name": "Autobahn 4/Anschlussstelle Köln-Merheim",
+    "datum_von": 1647997200000,
+    "datum_bis": 1680217200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16466/index.html",
+    "typ": 1,
+    "anzeige": 1,
+    "beschreibung": "An der Autobahn 4/Anschlussstelle Köln-Merheim ist hinter der Abfahrt aus Richtung Kreuz-Köln-Ost sowie aus Richtung Refrath kommend, die Weiterfahrt für Kraftfahrzeuge über 3,5 Tonnen gesperrt."
+   },
+   "geometry": {
+    "x": 7.0572525766434637,
+    "y": 50.951430574071253
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 901629,
+    "name": "Brühler Straße (Raderthal)",
+    "datum_von": 1667178000000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16915/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Brühler Straße ist zwischen Markusstraße und Liblarer Straße in Fahrtrichtung Raderberg eingeengt."
+   },
+   "geometry": {
+    "x": 6.9533791425704798,
+    "y": 50.899843409430282
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 918025,
+    "name": "Stolberger Straße (Braunsfeld)",
+    "datum_von": 1665360000000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14851/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Stolberger Straße ist zwischen Josef-Lammerting-Allee und Vitalisstraße in Fahrtrichtung stadtauswärts im Baustellenbereich eingeengt."
+   },
+   "geometry": {
+    "x": 6.9035812500608911,
+    "y": 50.941975870690122
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 858032,
+    "name": "RheinEnergieSTADION - Winter Game - Kölner Haie",
+    "datum_von": 1670076000000,
+    "datum_bis": 1670083200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16764/index.html",
+    "typ": 9,
+    "anzeige": 1,
+    "beschreibung": "Zwischen 15 und 17 Uhr und im weiteren Verlauf des Abends ist mit einem erhöhten Verkehrsaufkommen und zähfließendem Verkehr zu rechnen."
+   },
+   "geometry": {
+    "x": 6.8750896271724988,
+    "y": 50.933880089057283
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 858034,
+    "name": "RheinEnergieSTADION - Loss mer Weihnachtsleeder singe",
+    "datum_von": 1671807600000,
+    "datum_bis": 1671814800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16765/index.html",
+    "typ": 9,
+    "anzeige": 1,
+    "beschreibung": "Zwischen 16 und 18 Uhr ist mit einem erhöhten Verkehrsaufkommen und zähfließendem Verkehr zu rechnen."
+   },
+   "geometry": {
+    "x": 6.875348481860839,
+    "y": 50.933863392835441
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 912026,
+    "name": "Dürener Straße (Lindenthal)",
+    "datum_von": 1615078800000,
+    "datum_bis": 1677974400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15233/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Dürener Straße ist zwischen Kitschburger Straße und Max-Bruch-Straße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9008453977904001,
+    "y": 50.926282529984228
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 912032,
+    "name": "Berliner Straße (Höhenhaus)",
+    "datum_von": 1664928000000,
+    "datum_bis": 1668470400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17080/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Berliner Straße ist zwischen Im Weidenbruch und Bernburger Weg in beiden Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0223119145457611,
+    "y": 50.98010868342557
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 920428,
+    "name": "Stolberger Straße (Müngersdorf)",
+    "datum_von": 1665532800000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17127/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Stolberger Straße ist im Einmündungsbereich zur Josef-Lammerting-Allee in Fahrtrichtung Vitalisstraße eingeengt."
+   },
+   "geometry": {
+    "x": 6.8864687577285935,
+    "y": 50.942793861385766
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 722426,
+    "name": "LANXESS arena - Kontra K",
+    "datum_von": 1670864400000,
+    "datum_bis": 1670871600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14009/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Musikveranstaltung in der LANXESS arena ist in der Zeit von 18:00 bis 20 Uhr und nach dem Konzert ab circa 22:30 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9826336991710027,
+    "y": 50.938053219803017
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 808426,
+    "name": "LANXESS arena - Shawn Mendes",
+    "datum_von": 1688400000000,
+    "datum_bis": 1688407200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/13115/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Konzertveranstaltung in der LANXESS arena ist in der Zeit von 18:00 bis 20:00 Uhr und nach dem Konzert ab circa 22:00 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.982870838560884,
+    "y": 50.93898089347924
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 860828,
+    "name": "Tunnel Kalk/Stadtautobahn (B 55a)",
+    "datum_von": 1343347200000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/00836/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Rahmen der Sicherheitseinrichtungen im Tunnel Kalk sind bestimmte Verkehrsbeschränkungen für Kraftfahrzeuge erforderlich."
+   },
+   "geometry": {
+    "x": 7.0151806284077844,
+    "y": 50.948133446743668
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 870034,
+    "name": "Sachsenring (Neustadt/Süd)",
+    "datum_von": 1659312000000,
+    "datum_bis": 1668038400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16839/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Sachsenring ist zwischen Kartäuserhof und Ulrichgasse in Fahrtrichtung Barbarossaplatz eingeengt."
+   },
+   "geometry": {
+    "x": 6.953577626047136,
+    "y": 50.92370929026832
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 912825,
+    "name": "Trankgasse (Altstadt/Nord)",
+    "datum_von": 1661126400000,
+    "datum_bis": 1668470400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16963/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Trankgasse ist zwischen Marzellenstraße und Johannisstraße in beiden Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9573005333616775,
+    "y": 50.9417750691686
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 831227,
+    "name": "LANXESS arena - Capital Bra",
+    "datum_von": 1683045000000,
+    "datum_bis": 1683050400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15937/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18:30 bis 20:00 Uhr und nach der Veranstaltung ab circa 22:00 Uhr rund um die Arena mit erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9830610538677398,
+    "y": 50.93898042159627
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 905227,
+    "name": "Aachener Straße/Alter Militärring (Braunsfeld, Müngersdorf)",
+    "datum_von": 1659312000000,
+    "datum_bis": 1669766400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17045/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Kreuzungsbereich Aachener Straße/Alter Militärring kommt es zu Fahrbahneinengungen."
+   },
+   "geometry": {
+    "x": 6.8821933158594781,
+    "y": 50.937709915463188
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 905230,
+    "name": "Bonner Straße (Marienburg)",
+    "datum_von": 1647824400000,
+    "datum_bis": 1680130800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16445/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Bonner Straße ist zwischen Leyboldstraße und Militärringstraße in beiden Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9667955522852036,
+    "y": 50.895928858744732
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 918425,
+    "name": "Am Leystapel (Altstadt/Süd)",
+    "datum_von": 1653868800000,
+    "datum_bis": 1668038400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16640/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Am Leystapel ist in Fahrtrichtung Rheinufertunnel zwischen Holzmarkt und Heumarkt eingeengt."
+   },
+   "geometry": {
+    "x": 6.963292587443525,
+    "y": 50.933808691718802
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 863231,
+    "name": "Rather Straße (Gremberghoven)",
+    "datum_von": 1656892800000,
+    "datum_bis": 1688425200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16798/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Rather Straße ist zwischen Ettore-Bugatti-Straße und Auf dem Streitacker voll gesperrt."
+   },
+   "geometry": {
+    "x": 7.0571979016058757,
+    "y": 50.907428850833924
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 875631,
+    "name": "Magnusstraße (Altstadt/Nord)",
+    "datum_von": 1658275200000,
+    "datum_bis": 1671580800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16868/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Magnusstraße ist zwischen dem Hohenzollernring und dem Friesenwall in Fahrtrichtung Zeughausstraße eingeengt."
+   },
+   "geometry": {
+    "x": 6.9404441578207807,
+    "y": 50.940499164980523
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 877228,
+    "name": "Niehler Straße (Nippes)",
+    "datum_von": 1612141200000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15092/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Niehler Straße ist auf Höhe der Seekabelstraße in beide Richtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9586094503093516,
+    "y": 50.964407945084538
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 838025,
+    "name": "LANXESS arena - Wincent Weiß",
+    "datum_von": 1685462400000,
+    "datum_bis": 1685467800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15993/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18 bis 19:30 Uhr und nach der Veranstaltung ab circa 21:30 Uhr rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9826677561021562,
+    "y": 50.938980954728137
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 906027,
+    "name": "Innere Kanalstraße/Am Gleisdreieck",
+    "datum_von": 1660867200000,
+    "datum_bis": 1668211200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16820/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Im Kreuzungsbereich Innere Kanalstraße/Am Gleisdreieck kommt es zu Fahrbahneinengungen in alle Fahrtrichtungen."
+   },
+   "geometry": {
+    "x": 6.938723553486458,
+    "y": 50.953348710472284
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 883625,
+    "name": "Berrenrather Straße (Sülz)",
+    "datum_von": 1661731200000,
+    "datum_bis": 1677542400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16910/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Berrenrather Straße ist zwischen Manderscheider Platz und Gerolsteiner Straße stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9227032266071342,
+    "y": 50.915972627805296
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 885228,
+    "name": "Butzweilerstraße (Ossendorf)",
+    "datum_von": 1660521600000,
+    "datum_bis": 1672444800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16917/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Butzweilerstraße ist zwischen Rochusstraße und Franziska-Anneke-Straße in beide Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9094999577333329,
+    "y": 50.975388030890592
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 916425,
+    "name": "Luxemburger Straße (Neustadt/Süd)",
+    "datum_von": 1656633600000,
+    "datum_bis": 1672444800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16734/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Luxemburger Straße ist zwischen Luxemburger Wall und Otto-Fischer-Straße in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9377257707695597,
+    "y": 50.925484536981301
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 921226,
+    "name": "Pfälzischer Ring (Mülheim)",
+    "datum_von": 1665619200000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17131/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Pfälzischer Ring ist in Fahrtrichtung Deutz zwischen der Karlsruher Straße und der Auffahrt zur Zoobrücke eingeengt."
+   },
+   "geometry": {
+    "x": 6.9907958911232626,
+    "y": 50.947083008361567
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 921628,
+    "name": "Olpener Straße (Merheim)",
+    "datum_von": 1666594800000,
+    "datum_bis": 1671804000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17135/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Olpener Straße ist im Einmündungsbereich zur Hohensyburgstraße in alle Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0429541949912204,
+    "y": 50.941489125686367
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 922825,
+    "name": "Horbeller Straße (Junkersdorf)",
+    "datum_von": 1666137600000,
+    "datum_bis": 1668556800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17137/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Horbeller Straße ist zwischen Dürener Straße und Toyota-Allee in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.8578925023887276,
+    "y": 50.918146414443463
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 923225,
+    "name": "Richard-Wagner-Straße (Neustadt/Süd)",
+    "datum_von": 1666594800000,
+    "datum_bis": 1668088800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17139/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Richard-Wagner-Straße ist zwischen der Moltkestraße und der Händelstraße abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.9348188125569692,
+    "y": 50.935465935821959
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 924028,
+    "name": "Humboldtstraße (Porz)",
+    "datum_von": 1666051200000,
+    "datum_bis": 1674172800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17147/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Humboldtstraße ist wegen Tiefbauarbeiten an den Versorgungsleitungen zwischen Steinstraße und Stresemannstraße voll gesperrt."
+   },
+   "geometry": {
+    "x": 7.0630546693814402,
+    "y": 50.902316476808437
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 924029,
+    "name": "Vogelsanger Straße",
+    "datum_von": 1666656000000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17148/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Vogelsanger Straße ist zwischen Vitalisstraße und Wilhelm-Mauser-Straße in beiden Fahrtrichtungen wechselseitig eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.89386092585179,
+    "y": 50.953216916428197
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 925226,
+    "name": "Pfälzischer Ring (Mülheim)",
+    "datum_von": 1662940800000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16919/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Pfälzischer Ring ist in Fahrtrichtung Deutz zwischen der Karlsruher Straße und der Auffahrt zur Zoobrücke eingeengt."
+   },
+   "geometry": {
+    "x": 6.9909193402220042,
+    "y": 50.947143844751579
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 924828,
+    "name": "Moltkestraße (Neustadt/Süd)",
+    "datum_von": 1666594800000,
+    "datum_bis": 1668088800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17152/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Moltkestraße ist zwischen der Richard-Wagner-Straße und der Jülicher Straße in Fahrtrichtung Roonstraße abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.9325284923096726,
+    "y": 50.935270159200108
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 924829,
+    "name": "Tunisstraße (Altstadt/Nord)",
+    "datum_von": 1666209600000,
+    "datum_bis": 1670040000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17151/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Tunisstraße ist zwischen der Straße Unter Sachsenhausen und der Victoriastraße in Fahrtrichtung Ursulastraße voll gesperrt."
+   },
+   "geometry": {
+    "x": 6.9528672928401161,
+    "y": 50.942719917896213
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 924830,
+    "name": "Niehler Straße",
+    "datum_von": 1666569600000,
+    "datum_bis": 1670198400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17153/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Niehler Straße ist zwischen der Friedrich-Karl-Straße und der Namibiastraße in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9596072332930232,
+    "y": 50.972846738248357
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 925626,
+    "name": "Stolberger Straße (Müngersdorf)",
+    "datum_von": 1646182800000,
+    "datum_bis": 1668384000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16384/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Stolberger Straße ist zwischen Eupener Straße und Josef-Lammerting-Allee in Fahrtrichtung stadtauswärts gesperrt. Weiterhin ist sie auf Höhe der Josef-Lammerting-Allee eingeengt."
+   },
+   "geometry": {
+    "x": 6.8878259548909728,
+    "y": 50.94248627146645
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 926025,
+    "name": "Justinianstraße (Deutz)",
+    "datum_von": 1666569600000,
+    "datum_bis": 1671667200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17155/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Justinianstraße ist zwischen Deutzer Freiheit/Deutz-Kalker Straße und Constantinstraße in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9780286441185115,
+    "y": 50.938061483052245
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 926026,
+    "name": "Bayenstraße (Altstadt/Süd)",
+    "datum_von": 1666594800000,
+    "datum_bis": 1668088800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17156/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Bayenstraße ist in Fahrtrichtung stadtauswärts zwischen Dreikönigenstraße und Severinswall eingeengt."
+   },
+   "geometry": {
+    "x": 6.9653386047301238,
+    "y": 50.925028051549837
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 926027,
+    "name": "Aachener Straße (Weiden)",
+    "datum_von": 1666137600000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17157/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Aachener Straße ist zwischen Körnerstraße und Stormstraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.8459893916710008,
+    "y": 50.938196198068546
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 926830,
+    "name": "Sürther Hauptstraße (Sürth)",
+    "datum_von": 1666310400000,
+    "datum_bis": 1668038400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17160/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Sürther Hauptstraße ist zwischen Falderstraße und Im Brunnenhof in beiden Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 7.0085666063859637,
+    "y": 50.862562734550444
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 926831,
+    "name": "Turiner Straße/Ursulastraße (Altstadt/Nord)",
+    "datum_von": 1668632400000,
+    "datum_bis": 1669003200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/11231/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "In dem Tunnel zwischen der Turiner Straße und der Ursulastraße kommt es wechselseitig zu Fahrbahnverengungen."
+   },
+   "geometry": {
+    "x": 6.9564560804803977,
+    "y": 50.945327456282961
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 927626,
+    "name": "Tunnelbereiche Nord-Süd-Fahrt und Tunisstraße (Altstadt/Nord)",
+    "datum_von": 1668625200000,
+    "datum_bis": 1669003200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/01249/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Wegen Reinigungsarbeiten in den Tunnelbereichen von Nord-Süd-Fahrt und Tunissstraße sind Fahrbahneinengungen erforderlich."
+   },
+   "geometry": {
+    "x": 6.9527729641179379,
+    "y": 50.942939205466431
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 927229,
+    "name": "Brühler Straße (Raderthal)",
+    "datum_von": 1661299200000,
+    "datum_bis": 1668729600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16972/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Brühler Straße ist im Einmündungsbereich der Schulze-Delitzsch-Straße in beide Fahrtrichtungen abschnittsweise eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9516341416765091,
+    "y": 50.897946469970769
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 927629,
+    "name": "Am Leystapel (Altstadt/Süd)",
+    "datum_von": 1668214800000,
+    "datum_bis": 1687042800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17165/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Straße Am Leystapel ist zwischen Große Witschgasse und Heumarkt in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9632711295536591,
+    "y": 50.933413142041701
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 928029,
+    "name": "Rheinufertunnel (Altstadt/Nord)",
+    "datum_von": 1668625200000,
+    "datum_bis": 1669003200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17168/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Rheinufertunnel ist in beide Fahrtrichtungen abschnittweise und wechselseitig eingeengt."
+   },
+   "geometry": {
+    "x": 6.9626864086716758,
+    "y": 50.938788272586983
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929225,
+    "name": "Mercatostraße (Longerich)",
+    "datum_von": 1668632400000,
+    "datum_bis": 1669006800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17164/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Mercatorstraße ist in Fahrtrichtung der Tunnel auf Höhe der Militärringstraße wechelseitig eingeengt."
+   },
+   "geometry": {
+    "x": 6.9130338804357168,
+    "y": 51.000193281173019
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929226,
+    "name": "Autobahn 57/Tunnel Herkulesstraße (Neuehrenfeld)",
+    "datum_von": 1668110400000,
+    "datum_bis": 1668139200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15523/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Kreisstraße 4 (Herkulestunnel) ist Nachts in der Zeit zwischen 21 und 5 Uhr in beiden Richtungen auf eine Fahrspur eingeengt."
+   },
+   "geometry": {
+    "x": 6.9316264279789408,
+    "y": 50.954007675235324
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929625,
+    "name": "Vorgebirgstraße (Zollstock)",
+    "datum_von": 1666854000000,
+    "datum_bis": 1668088800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17098/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Vorgebirgstraße ist auf der Höhe der Einmündung Breniger Straße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9454880843409628,
+    "y": 50.907800062896754
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929626,
+    "name": "Berrenrather Straße (Sülz)",
+    "datum_von": 1665014400000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17074/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Berrenrather Straße ist im Einmündungsbereich zur Marsiliusstraße in beide Fahrtrichtungen eingeengt und verschwenkt. In die Wittekindstraße kann nicht ein oder ausgefahren werden."
+   },
+   "geometry": {
+    "x": 6.925296414710675,
+    "y": 50.918376382234015
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 928829,
+    "name": "Universitätsstraße (Lindenthal)",
+    "datum_von": 1668625200000,
+    "datum_bis": 1669003200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17171/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Tunnel an der Universitätsstraße ist in beide Fahrtrichtungen abschnittweise und wechselseitig eingeengt."
+   },
+   "geometry": {
+    "x": 6.9283004883763004,
+    "y": 50.927983292296616
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 930025,
+    "name": "Kaiserstraße (Urbach)",
+    "datum_von": 1667955600000,
+    "datum_bis": 1668124800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17172/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Kaiserstraße ist zwischen Kupfergasse und Schmale Gasse in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.0808591730369494,
+    "y": 50.881431670087963
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929628,
+    "name": "Poll-Vingster-Straße",
+    "datum_von": 1665360000000,
+    "datum_bis": 1669334400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17173/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Poll-Vingster-Straße ist zwischen Ernst-Weyden-Straße und Gremberger Straße  in beide Fahrtrichtungen eingeengt"
+   },
+   "geometry": {
+    "x": 7.0081981316438826,
+    "y": 50.924196221866872
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929631,
+    "name": "Brückenstraße (Rodenkirchen)",
+    "datum_von": 1667376000000,
+    "datum_bis": 1668175200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17175/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Brückenstraße ist im Einmündungsbereich zur Adamstraße in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9899644749176248,
+    "y": 50.892306386202144
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929632,
+    "name": "Nachtigallenstraße (Wahn)",
+    "datum_von": 1666828800000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17176/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Nachtigallenstraße ist zwischen Albert-Schweitzer-Straße und der Straße Hinter den Höfen in Fahrtrichtung Frankfurter Straße eingeengt. Außerdem ist die Straße Hinter den Höfen gesperrt."
+   },
+   "geometry": {
+    "x": 7.0862028026349515,
+    "y": 50.863074891752703
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929633,
+    "name": "Brückenstraße (Rodenkirchen)",
+    "datum_von": 1667376000000,
+    "datum_bis": 1668175200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17177/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Brückenstraße ist im Einmündungsbereich Frankstraße in beide Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9897928132305198,
+    "y": 50.895072824150994
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 930028,
+    "name": "Bergisch Gladbacher Straße (Holweide)",
+    "datum_von": 1667851200000,
+    "datum_bis": 1668229200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17178/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Bergisch Gladbacher Straße ist im Einmündungsbereich Steyler Straße in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0331319458026345,
+    "y": 50.96703974228393
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 930029,
+    "name": "Bergisch Gladbacher Straße (Holweide)",
+    "datum_von": 1667851200000,
+    "datum_bis": 1668229200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17178/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Bergisch Gladbacher Straße ist im Einmündungsbereich Steyler Straße in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 7.0330246583295279,
+    "y": 50.967157983936929
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 929634,
+    "name": "Bergisch Gladbacher Straße (Holweide)",
+    "datum_von": 1667851200000,
+    "datum_bis": 1668142800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17179/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Bergisch Gladbacher Straße ist im Einmündungsbereich zur Maria-Himmelfahrt-Straße in Fahrtrichtung Mülheim eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 7.0446251173433367,
+    "y": 50.969439403821276
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931225,
+    "name": "Boltensternstraße (Riehl)",
+    "datum_von": 1667376000000,
+    "datum_bis": 1668780000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17077/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Boltensternstraße ist zwischen Riehler Straße und Pionierstraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9811936509815968,
+    "y": 50.963995762575493
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931626,
+    "name": "Aachener Straße (Braunsfeld)",
+    "datum_von": 1651536000000,
+    "datum_bis": 1677628800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16524/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Aachener Straße ist zwischen der Braunstraße und der Kitschburger Straße in Fahrtrichtung Melatengürtel eingeengt."
+   },
+   "geometry": {
+    "x": 6.8998047008437311,
+    "y": 50.937121711036532
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931227,
+    "name": "Wilhelm-Mauser-Straße (Bickendorf)",
+    "datum_von": 1661731200000,
+    "datum_bis": 1675123200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16983/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Wilhelm-Mauser-Straße ist im Einmündungsbereich Venloer Straße in Fahrtrichtung Vitalisstraße eingeengt. In der Gegenfahrtrichtung kann nicht gewendet werden."
+   },
+   "geometry": {
+    "x": 6.8994018602241258,
+    "y": 50.957602825915146
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931629,
+    "name": "Victoriastraße (Altstadt/Nord)",
+    "datum_von": 1667894400000,
+    "datum_bis": 1668088800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17183/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Victoriastraße ist auf Höhe der Einmündung Klingelpütz in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9506111029954267,
+    "y": 50.945271408069033
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931630,
+    "name": "Merheimer Straße (Nippes)",
+    "datum_von": 1667350800000,
+    "datum_bis": 1671148800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17184/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Merheimer Straße ist zwischen Merheimer Platz und Innere Kanalstraße in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9497567218983205,
+    "y": 50.956438919792177
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931627,
+    "name": "Dürener Straße",
+    "datum_von": 1667350800000,
+    "datum_bis": 1668384000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17182/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Dürener Straße  ist im Einmündungsbereich zum Karl-Schwering-Platz in beide Fahrtrichtungen eingeengt."
+   },
+   "geometry": {
+    "x": 6.9181939252935427,
+    "y": 50.931408296506717
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 931628,
+    "name": "Neusser Straße (Weidenpesch)",
+    "datum_von": 1667340000000,
+    "datum_bis": 1669946400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/13346/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Neusser Straße ist zwischen Wilhelm-Sollmann-Straße und Lachemer Weg in beiden Fahrtrichtungen abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.9417773869092194,
+    "y": 50.991522840246823
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 932825,
+    "name": "Lützerathstraße (Rath/Heumar)",
+    "datum_von": 1665385200000,
+    "datum_bis": 1672495200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17081/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Lützerathstraße ist zwischen Gröppersgasse und Wichtelerbruch wechselseitig abschnittweise eingeengt."
+   },
+   "geometry": {
+    "x": 7.0893671401764227,
+    "y": 50.927246190689083
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 933225,
+    "name": "Vogelsanger Straße (Neustadt/Nord)",
+    "datum_von": 1648083600000,
+    "datum_bis": 1669248000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16460/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Vogelsanger Straße ist in Fahrtrichtung stadteinwärts zwischen der Inneren Kanalstraße und Moltkestraße gesperrt."
+   },
+   "geometry": {
+    "x": 6.932545213605029,
+    "y": 50.940207447613545
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 933625,
+    "name": "Äußere Kanalstraße (Ehrenfeld)",
+    "datum_von": 1601881200000,
+    "datum_bis": 1669816800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14686/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Äußere Kanalstraße ist zwischen Borsigstraße und Subbelrather Straße in Fahrtrichtung Neuehrenfeld eingeengt."
+   },
+   "geometry": {
+    "x": 6.9048150674675899,
+    "y": 50.958387020188084
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 932425,
+    "name": "Widdersdorfer Straße (Müngersdorf)",
+    "datum_von": 1667782800000,
+    "datum_bis": 1670025600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17186/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Widdersdorfer Straße ist zwischen der Vitalisstraße und der Eupener Straße in Fahrtrichtung stadteinwärts abschnittsweise eingeengt."
+   },
+   "geometry": {
+    "x": 6.8876898942126026,
+    "y": 50.94714783828578
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934427,
+    "name": "Zeughausstraße (Altstadt/Nord)",
+    "datum_von": 1664841600000,
+    "datum_bis": 1668038400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17161/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Zeughausstraße ist zwischen Komödienstraße und Mohrenstraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9482507602019767,
+    "y": 50.941235610211059
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934825,
+    "name": "Alte Escher Straße (Ossendorf)",
+    "datum_von": 1664434800000,
+    "datum_bis": 1668780000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17089/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Alte Escher Straße ist auf der Höhe der Kreuzung Von-Hünefeld-Straße in Fahrtrichtung Butzweilerstraße eingeengt."
+   },
+   "geometry": {
+    "x": 6.8933459404964541,
+    "y": 50.991218949101125
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934826,
+    "name": "Siegburger Straße (Poll)",
+    "datum_von": 1668387600000,
+    "datum_bis": 1671235200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17189/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Siegburger Straße ist zwischen den Straßen Im Forst und Am Weizenacker in beide Fahrtrichtungen eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9980486522620522,
+    "y": 50.913173994122012
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 934828,
+    "name": "Siegburger Straße (Deutz)",
+    "datum_von": 1667806200000,
+    "datum_bis": 1668090600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17190/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Siegburger Straße ist zwischen Kaltenbornweg und Im Hasental in Fahrtrichtung Severinsbrücke eingeengt."
+   },
+   "geometry": {
+    "x": 6.9770094041823656,
+    "y": 50.92681339132443
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935225,
+    "name": "Hans-Schulten-Straße (Brück)",
+    "datum_von": 1668672000000,
+    "datum_bis": 1669989600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17040/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Hans-Schulten-Straße ist zwischen der Wiehler Straße und der Dattenfelder Straße in beide Fahrtrichtungen wechselseitig eingeengt."
+   },
+   "geometry": {
+    "x": 7.0642080193840435,
+    "y": 50.942776960994898
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935226,
+    "name": "Eiler Straße  (Rath/Heumar)",
+    "datum_von": 1556755200000,
+    "datum_bis": 1669766400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/13312/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Die Eiler Straße ist ab Rösrather Straße in Fahrtrichtung Maarhäuser Weg nach Bedarf minutenweise gesperrt. Weitläufige Umleitungen sind ausgeschildert."
+   },
+   "geometry": {
+    "x": 7.0820441198393498,
+    "y": 50.921151658643382
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935625,
+    "name": "Karnevalseröffnung - Altstadt",
+    "datum_von": 1668128400000,
+    "datum_bis": 1668211200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/10899/index.html",
+    "typ": 13,
+    "anzeige": 1,
+    "beschreibung": "Wegen der Karnevalseröffnung am 11. November 2022 ist im Innenstadtbereich mit einem hohen Andrang an Zuschauenden sowie mit Straßensperrungen rund um den Heumarkt zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9606654513331403,
+    "y": 50.93608720004373
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935627,
+    "name": "Universitätsstraße (Lindenthal)",
+    "datum_von": 1629158400000,
+    "datum_bis": 1669766400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15785/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Universitätsstraße ist zwischen Meister-Ekkehart-Straße und Gyrhofstraße in Fahrtrichtung Bachemer Straße eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9282278902951511,
+    "y": 50.928164060150344
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935227,
+    "name": "Karnevalseröffnung - Zülpicher Viertel",
+    "datum_von": 1668128400000,
+    "datum_bis": 1668211200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/10900/index.html",
+    "typ": 13,
+    "anzeige": 1,
+    "beschreibung": "Zur Karnevalseröffnung kommt es im Bereich Zülpicher Viertel zu Straßensperrungen."
+   },
+   "geometry": {
+    "x": 6.938676395676393,
+    "y": 50.929961155590227
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935628,
+    "name": "Roonstraße (Neustadt/Süd)",
+    "datum_von": 1668459600000,
+    "datum_bis": 1668747600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17192/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Roonstraße ist zwischen Rathenauplatz und Beethovenstraße in Fahrtrichtung Barbarossaplatz eingeengt."
+   },
+   "geometry": {
+    "x": 6.9359608780833915,
+    "y": 50.932152094061351
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935629,
+    "name": "Alfred-Schütte-Allee/Drehbrücke (Deutz)",
+    "datum_von": 1613955600000,
+    "datum_bis": 1672444800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/14195/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Generalsanierung ist die Deutzer Drehbrücke gesperrt."
+   },
+   "geometry": {
+    "x": 6.973222124850663,
+    "y": 50.927857051770481
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935630,
+    "name": "Höninger Weg (Zollstock)",
+    "datum_von": 1667761200000,
+    "datum_bis": 1668139200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17193/index.html",
+    "typ": 2,
+    "anzeige": 1,
+    "beschreibung": "Der Höninger Weg ist zwischen Gottesweg und Zeltinger Straße voll gesperrt. Weitläufige Umleitungen sind ausgeschildert."
+   },
+   "geometry": {
+    "x": 6.9413199311908551,
+    "y": 50.911524255460932
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935228,
+    "name": "Sandbergstraße (Langel)",
+    "datum_von": 1667894400000,
+    "datum_bis": 1670594400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17194/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Sandbergstraße ist zwischen Heinrich-Klein-Straße und Lülsdorfer Straße in beiden Fahrtrichtungen wechselseitig eingeengt. Die Arbeiten finden abschnittweise statt."
+   },
+   "geometry": {
+    "x": 7.0089276925350115,
+    "y": 50.847777020261375
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935632,
+    "name": "Lützerathstraße (Rath/Heumar)",
+    "datum_von": 1668992400000,
+    "datum_bis": 1670544000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17196/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Lützerathstraße ist zwischen Rösrather Straße und Am Burgacker in beiden Fahrtrichtungen wechselseitig eingeengt."
+   },
+   "geometry": {
+    "x": 7.0794858829785445,
+    "y": 50.924848837739439
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 935633,
+    "name": "Pipinstraße (Altstadt/Süd)",
+    "datum_von": 1668474000000,
+    "datum_bis": 1673308800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17197/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Pipinstraße ist zwischen Kleine Sandkaul und Heumarkt in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.9596769707569566,
+    "y": 50.935289437296312
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936027,
+    "name": "Alte Escher Straße (Ossendorf)",
+    "datum_von": 1667523600000,
+    "datum_bis": 1669939200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/16768/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Alte Escher Straße ist auf der Höhe der Kreuzung Von-Hünefeld-Straße in Fahrtrichtung Butzweilerstraße eingeengt."
+   },
+   "geometry": {
+    "x": 6.8995257499754672,
+    "y": 50.987990829800701
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936028,
+    "name": "Loorweg (Langel)",
+    "datum_von": 1668387600000,
+    "datum_bis": 1669334400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17198/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Der Loorweg ist zwischen Unterm Berg und An der Mühle in Fahrtrichtung Langel eingeengt."
+   },
+   "geometry": {
+    "x": 7.0229502807821094,
+    "y": 50.854834997803074
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936426,
+    "name": "Venloer Straße (Bocklemünd/Mengenich)",
+    "datum_von": 1667808000000,
+    "datum_bis": 1668520800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17199/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Venloer Straße ist zwischen Freimersdorfer Weg und Fettenweg in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 6.867017377401293,
+    "y": 50.969502484027913
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936427,
+    "name": "Olpener Straße (Höhenberg)",
+    "datum_von": 1669017600000,
+    "datum_bis": 1669989600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17200/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Olpener Straße ist auf Höhe der Kreuzung Germaniastraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.0184548987306279,
+    "y": 50.940208014592052
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936428,
+    "name": "Frankfurter Straße (Urbach)",
+    "datum_von": 1669017600000,
+    "datum_bis": 1669989600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17201/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Frankfurter Straße ist in Höhe der Forsbachstraße in Fahrtrichtung stadteinwärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.0823558458864175,
+    "y": 50.879245194573478
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936029,
+    "name": "Neusser Straße (Weidenpesch)",
+    "datum_von": 1667782800000,
+    "datum_bis": 1668384000000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17202/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Neusser Straße ist ab Scheibenstraße in Fahrtrichtung Longerich gesperrt. Umleitungen sind ausgeschildert."
+   },
+   "geometry": {
+    "x": 6.9464644086271745,
+    "y": 50.985687787482661
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936825,
+    "name": "Sandbergstraße (Langel)",
+    "datum_von": 1668412800000,
+    "datum_bis": 1669384800000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17203/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Sandbergstraße ist zwischen Heinrich-Klein-Straße und Am Poppenberg in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.007543671713182,
+    "y": 50.844423768519896
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937225,
+    "name": "Lülsdorfer Straße (Langel)",
+    "datum_von": 1667894400000,
+    "datum_bis": 1670594400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17204/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Lülsdorfer Straße ist zwischen Sandbergstraße und Rheinbergstraße in Fahrtrichtung stadtauswärts eingeengt."
+   },
+   "geometry": {
+    "x": 7.0108111715800208,
+    "y": 50.849646607882583
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936828,
+    "name": "Theodor-Heuss-Straße (Eil)",
+    "datum_von": 1668412800000,
+    "datum_bis": 1669989600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17208/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Theodor-Heuss-Straße ist zwischen Humboldtstraße und Bunsenstraße in Fahrtrichtung Frankfurter Straße eingeengt."
+   },
+   "geometry": {
+    "x": 7.068113316210936,
+    "y": 50.897248407286483
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 936829,
+    "name": "Theodor-Heuss-Straße (Eil)",
+    "datum_von": 1668412800000,
+    "datum_bis": 1669989600000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17209/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Die Theodor-Heuss-Straße ist zwischen Hansestraße und Rudolf-Diesel-Straße in Fahrtrichtung Frankfurter Straße eingeengt."
+   },
+   "geometry": {
+    "x": 7.0790030842607807,
+    "y": 50.903788076513727
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937226,
+    "name": "Nord-Süd-Fahrt (Altstadt/Nord)",
+    "datum_von": 1619568000000,
+    "datum_bis": 1671062400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/15792/index.html",
+    "typ": 3,
+    "anzeige": 1,
+    "beschreibung": "Auf der Nord-Süd-Fahrt, in Fahrtrichtung Süden, ist die Ausfahrt auf die Cäcilienstraße eingeengt und verschwenkt."
+   },
+   "geometry": {
+    "x": 6.9527997859695327,
+    "y": 50.935664687861959
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937625,
+    "name": "LANXESS arena - Chris de Burgh und Band",
+    "datum_von": 1668013200000,
+    "datum_bis": 1668020400000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17207/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen einer Veranstaltung in der LANXESS arena ist in der Zeit von 18:00 bis 20 Uhr und nach Veranstaltungsende um 22 Uhr, ist rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9824162926536708,
+    "y": 50.938207325124303
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 937627,
+    "name": "LANXESS arena - Die Jecke 11 und Deutschlands größte 16  Schülerparty",
+    "datum_von": 1668153600000,
+    "datum_bis": 1668130200000,
+    "link": "/leben-in-koeln/verkehr/verkehrskalender/stoerungen/17213/index.html",
+    "typ": 8,
+    "anzeige": 1,
+    "beschreibung": "Wegen mehrerer Veranstaltungen in der LANXESS arena ist ganztägig rund um die Arena mit einem erhöhten Verkehrsaufkommen zu rechnen."
+   },
+   "geometry": {
+    "x": 6.9828023497941007,
+    "y": 50.938202097144647
+   }
+  }
+ ]
+}
